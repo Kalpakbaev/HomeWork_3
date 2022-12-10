@@ -1,0 +1,15 @@
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.csproj.AssemblyReference.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.AssemblyInfoInputs.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.AssemblyInfo.cs
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.csproj.CoreCompileInputs.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\bin\Debug\net7.0\in_3D_space.exe
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\bin\Debug\net7.0\in_3D_space.deps.json
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\bin\Debug\net7.0\in_3D_space.runtimeconfig.json
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\bin\Debug\net7.0\in_3D_space.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\bin\Debug\net7.0\in_3D_space.pdb
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\refint\in_3D_space.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.pdb
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\in_3D_space.genruntimeconfig.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\in_3D_space\obj\Debug\net7.0\ref\in_3D_space.dll
