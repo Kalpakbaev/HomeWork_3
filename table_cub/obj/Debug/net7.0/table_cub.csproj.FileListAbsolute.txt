@@ -1,0 +1,15 @@
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\bin\Debug\net7.0\table_cub.exe
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\bin\Debug\net7.0\table_cub.deps.json
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\bin\Debug\net7.0\table_cub.runtimeconfig.json
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\bin\Debug\net7.0\table_cub.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\bin\Debug\net7.0\table_cub.pdb
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.csproj.AssemblyReference.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.AssemblyInfoInputs.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.AssemblyInfo.cs
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.csproj.CoreCompileInputs.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\refint\table_cub.dll
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.pdb
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\table_cub.genruntimeconfig.cache
+C:\Users\Lenova7\Desktop\Home_Work_3\Examples\table_cub\obj\Debug\net7.0\ref\table_cub.dll
